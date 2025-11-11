@@ -1,5 +1,5 @@
-class animals {
-    speak (){
+class employee {
+     (){
         return console.log("animals make a sound");
     }
 }
