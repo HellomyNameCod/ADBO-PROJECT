@@ -5,9 +5,9 @@ class employee {
 }
 
 class dog extends animals {
-    speak (){
-        return console.log("dog sound like barks");
-    }
+    // speak (){
+    //     return console.log("dog sound like barks");
+    // }
 }
 
 class cat extends animals {
